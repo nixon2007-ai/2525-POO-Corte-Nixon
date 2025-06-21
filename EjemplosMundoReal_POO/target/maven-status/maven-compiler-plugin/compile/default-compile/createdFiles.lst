@@ -1,0 +1,5 @@
+com\mycompany\tienda\Orden.class
+com\mycompany\tienda\Orden$ItemOrden.class
+com\mycompany\tienda\Producto.class
+com\mycompany\tienda\TiendaApp.class
+com\mycompany\tienda\Cliente.class
