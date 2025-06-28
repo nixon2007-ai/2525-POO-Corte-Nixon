@@ -1,5 +1,3 @@
-
-
 package com.mycompany.conversorunidades;
 
 /**
@@ -13,12 +11,20 @@ import java.util.Scanner;
 public class ConversorUnidades {
 
     public static void main(String[] args) {
+        // Mensaje de autor
+        System.out.println("BIENVENIDOS A ESTE PROGRAMA");
+
         // Declaración de variables
         float valor; // Valor a convertir
         String unidad; // Unidad de medida ingresada por el usuario
         boolean continuar = true; // Controla el bucle del programa
+        String nombre; // Nombre del usuario
 
         Scanner scanner = new Scanner(System.in);
+
+        // Solicitar el nombre del usuario
+        System.out.print("Ingrese su nombre: ");
+        nombre = scanner.nextLine();
 
         while (continuar) {
             // Solicitar al usuario que ingrese un valor y la unidad
@@ -30,10 +36,10 @@ public class ConversorUnidades {
             // Lógica de conversión
             if (unidad.equals("metros")) {
                 float resultado = convertirMetrosAPies(valor);
-                System.out.printf("%.2f metros son %.2f pies.%n", valor, resultado);
+                System.out.printf("%s, %.2f metros son %.2f pies.%n", nombre, valor, resultado);
             } else if (unidad.equals("pies")) {
                 float resultado = convertirPiesAMetros(valor);
-                System.out.printf("%.2f pies son %.2f metros.%n", valor, resultado);
+                System.out.printf("%s, %.2f pies son %.2f metros.%n", nombre, valor, resultado);
             } else {
                 System.out.println("Unidad no válida. Por favor, ingrese 'metros' o 'pies'.");
             }
