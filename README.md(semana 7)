@@ -1,0 +1,68 @@
+# Sistema de Gestión de Ingreso a la Universidad Estatal Amazónica (UEA)
+## Nombre del estudiante
+Corte Salinas Nixon Dario
+
+Este proyecto es un sistema de gestión para el ingreso a la Universidad Estatal Amazónica (UEA), específicamente para la sede Lago Agrio. El sistema permite registrar y mostrar información sobre los estudiantes y las carreras disponibles.
+
+## Descripción
+
+El sistema tiene como objetivo facilitar la gestión de los mejores alumnos por carrera en la UEA. A través de este programa, se pueden crear instancias de estudiantes y carreras, y mostrar la información relevante de cada estudiante.
+
+## Estructura del Proyecto
+
+El proyecto está compuesto por las siguientes clases:
+
+- **Sistemadegestionuealagoagrio**: Clase principal que ejecuta el programa.
+- **Carrera**: Clase que representa una carrera académica.
+- **Estudiante**: Clase que representa a un estudiante, incluyendo su nombre, nacionalidad y carrera.
+
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   ```
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd sistemadegestionuealagoagrio
+   ```
+
+3. Asegúrate de tener instalado Java en tu máquina. Puedes verificarlo con:
+   ```bash
+   java -version
+   ```
+
+## Uso
+
+Para ejecutar el programa, utiliza el siguiente comando en la terminal:
+
+```bash
+javac Sistemadegestionuealagoagrio.java Carrera.java Estudiante.java
+java sistemadegestionuealagoagrio.Sistemadegestionuealagoagrio
+```
+
+Esto compilará las clases y ejecutará el programa, mostrando la información de los estudiantes registrados.
+
+## Ejemplo de Salida
+
+Al ejecutar el programa, deberías ver una salida similar a la siguiente:
+
+```
+Bienvenidos al SISTEMA DE GESTION DE INGRESO A LA UNIVERSIDAD ESTATAL AMAZONICA (UEA)
+Por medio de este sistema tendremos a los mejores alumnos por carrera de la SEDE-LAGO AGRIO
+=================================
+Nombre: Juan Pérez
+Nacionalidad: Ecuador
+Carrera: Ingeniería Ambiental
+=================================
+...
+```
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor crea un fork del repositorio y envía un pull request.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
