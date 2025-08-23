@@ -1,0 +1,15 @@
+iPhone 13,999.99,50
+Samsung Galaxy S21,799.99,40
+Google Pixel 6,599.99,30
+OnePlus 9,729.99,20
+Xiaomi Mi 11,749.99,25
+Sony Xperia 5 III,999.99,15
+Nokia 3310,49.99,100
+Huawei P40,599.99,35
+Motorola Moto G Power,249.99,60
+LG Velvet,499.99,20
+Oppo Find X3,999.99,10
+Realme GT,499.99,30
+Asus ROG Phone 5,999.99,5
+Vivo X60 Pro,699.99,15
+ZTE Axon 20,399.99,25
