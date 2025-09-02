@@ -27,4 +27,4 @@ Para ejecutar este proyecto debe tener instalado java-IDE Netbeans, sigue estos 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://tu-repositorio.git
+   git clone  https://github.com/nixon2007-ai/2525-POO-Corte-Nixon/tree/main/BuggyActividadSinError
