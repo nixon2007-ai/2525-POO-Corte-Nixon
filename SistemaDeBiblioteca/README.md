@@ -39,6 +39,5 @@ El proyecto está compuesto por las siguientes clases:
 Dejo el enlace para verificación del mismo en Github: https://github.com/nixon2007-ai/2525-POO-Corte-Nixon/tree/main/SistemaDeBiblioteca
 
 
-<img width="347" height="243" alt="image" src="https://github.com/user-attachments/assets/81f4be27-fa40-4c3c-b753-bdb428ac8c24" />
 
 
