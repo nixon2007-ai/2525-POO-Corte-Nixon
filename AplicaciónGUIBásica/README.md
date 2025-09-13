@@ -43,7 +43,7 @@ Esta es una aplicación de interfaz gráfica de usuario (GUI) básica desarrolla
 3. Ingresa texto en el campo de texto y presiona el botón "Agregar" para añadirlo a la lista.
 4. Usa el botón "Limpiar" para borrar el contenido del campo de texto y la lista.
 
-## Ejemplo de ejecución
+## Evidencia de ejecución
 
 ![Imagen de WhatsApp 2025-09-12 a las 19 20 04_bfdfcc3b](https://github.com/user-attachments/assets/e38bd3db-37e4-4d1a-bf69-ede3abff66d1)
 
