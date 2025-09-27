@@ -25,7 +25,7 @@ Esta aplicación permite gestionar una lista de tareas mediante una interfaz gr�
 1. Clona o descarga este repositorio.
 2. Abre el proyecto en tu IDE favorito.
 3. Compila y ejecuta el archivo `ListaDeTareas.java`.
-4. ¡Empieza a gestionar tus tareas!
+4. ¡Empieza a gestionar la tarea que he presentado!
 
 ---
 
